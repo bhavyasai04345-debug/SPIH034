@@ -1,1 +1,10 @@
+flask
+pandas
+scikit-learn
+tensorflow
+joblib
+shap
+lime
+sqlalchemy
+
 
