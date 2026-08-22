@@ -1,1 +1,47 @@
+body {
+    background-color: #F9FAFB;
+    color: #333333;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #0B3D91;
+}
+.navbar-brand {
+    color: #FFFFFF !important;
+    font-weight: bold;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #0B3D91;
+    font-weight: bold;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #FF6F61;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #e85b50;
+}
+
+.btn-secondary {
+    background-color: #008080;
+    border: none;
+}
+.btn-secondary:hover {
+    background-color: #006666;
+}
+
+/* Cards */
+.card {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
 
